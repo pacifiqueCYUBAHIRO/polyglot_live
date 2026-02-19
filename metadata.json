@@ -1,0 +1,7 @@
+{
+  "name": "Polyglot Live",
+  "description": "A real-time AI language tutor using Gemini Live API to help users master English and French through natural voice conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
